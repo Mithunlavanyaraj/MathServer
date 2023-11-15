@@ -134,5 +134,11 @@ padding-top: 20px;
 </html>
 
 ```
+
+## OUTPUT:
+![image](https://github.com/Mithunlavanyaraj/MathServer/assets/120077786/3b9b3be1-c40e-4d6e-8cba-5b31af3b2071)
+![image](https://github.com/Mithunlavanyaraj/MathServer/assets/120077786/648d00b1-4a52-4427-8746-c12bd647ed1b)
+
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
